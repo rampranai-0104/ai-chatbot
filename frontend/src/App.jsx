@@ -3,7 +3,7 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import './index.css';
 
-const API_URL = "http://localhost:8001";
+const API_URL = "https://ai-chatbot-ss8u.onrender.com";
 
 function App() {
   const [sessionId] = useState(() => crypto.randomUUID());
