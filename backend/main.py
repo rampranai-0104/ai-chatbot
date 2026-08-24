@@ -26,6 +26,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",
         "https://ai-chatbot-ivory-beta.vercel.app",
+         "https://ai-chatbot-git-main-ram-s-projects-8e6c9989.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
