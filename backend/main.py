@@ -27,7 +27,7 @@ app.add_middleware(
         "http://localhost:5173",
         "https://ai-chatbot-ivory-beta.vercel.app",
          "https://ai-chatbot-git-main-ram-s-projects-8e6c9989.vercel.app",
-        "https://ai-chatbot.indevs.in/"
+         "https://ai-chatbot.indevs.in",
     ],
     allow_credentials=True,
     allow_methods=["*"],
